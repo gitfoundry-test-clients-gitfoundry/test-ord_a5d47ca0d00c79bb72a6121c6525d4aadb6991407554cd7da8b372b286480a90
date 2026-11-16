@@ -1,2 +1,22 @@
-# test-ord_a5d47ca0d00c79bb72a6121c6525d4aadb6991407554cd7da8b372b286480a90
-Website for Northline Test Joinery — built by GitFoundry
+# Northline Test Joinery
+
+Your website built by [GitFoundry](https://gitfoundry.co.uk).
+
+## Your files
+
+- `404.html`
+- `favicon.svg`
+- `index.html`
+- `mobile-nav.js`
+- `og-image.png`
+- `robots.txt`
+- `sitemap.xml`
+- `styles.css`
+
+## Making changes
+
+Edit any HTML or CSS file directly on GitHub, or [contact GitFoundry](https://gitfoundry.co.uk/contact.html) for updates.
+
+## Transferring this repository
+
+If you'd like to own this repository outright, [contact GitFoundry](https://gitfoundry.co.uk/contact.html) with your GitHub username.
